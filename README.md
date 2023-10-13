@@ -1,5 +1,5 @@
 # Projeto Selenium com Python
-
+![Selenium automação com python](selenium_automation.png)
 ## Descrição
 
 Este projeto é um exemplo de automação de testes web utilizando Python e Selenium. Ele demonstra como criar scripts de teste automatizados para interagir com páginas da web, preencher formulários, clicar em botões e realizar diversas ações com um navegador web.
