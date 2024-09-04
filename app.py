@@ -19,7 +19,7 @@ class App():
 
         site_selenium(browser)
         
-        browser.quit()     
+        #browser.quit()     
         
 if __name__ == '__main__':
     app = App()

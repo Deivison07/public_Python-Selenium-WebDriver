@@ -27,9 +27,7 @@ class Driver(webdriver.Chrome):
         timeout=5,
         fail_silently=False,
     ):
-        element = self._wait_element(
-            by, value, EC.element_to_be_clickable, timeout, fail_silently
-        )
+        element = self._wait_element(by, value, EC.element_to_be_clickable, timeout)
 
         if element:
             element.click()
